@@ -17,6 +17,10 @@ This project includes the following features:
 - sandbox open world
   - with a simple map screen
   - simple navigation screen to swap between sub-locations (e.g. at the Gym)
+- quest/event system, can trigger events by:
+  - being at the right time at the right place
+  - talking to somebody
+  - forced at any given day and time
 - build in schedule editor to define where a character is at any point in time
   
 
