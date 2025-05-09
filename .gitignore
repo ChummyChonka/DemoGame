@@ -1,0 +1,80 @@
+# exclude image files
+images/
+gui/
+*.jpg
+*.png
+*.webp
+
+# tables
+*.ods
+
+# exclude zip files
+*.zip
+
+# exclude gimp files
+*.xcf
+
+# exclude videos
+*.webm
+
+# exclude music and audio files
+*.mp3
+*.ogg
+*.wav
+
+# exclude cache directory
+cache/
+
+# exclude .rpyc files
+*.rpyc
+
+# exclude save files
+saves/
+
+# exclude backup archives
+*.tar
+*.tar.gz
+
+# exclude translations
+tl/
+
+# other miscellaneous files
+errors.txt
+files.txt
+log.txt
+memory.txt
+traceback.txt
+*.bak
+.~lock.*
+icons_old/
+
+# android stuff
+android.json
+android.keystore
+bundle.keystore
+
+# vscode stuff
+.vscode/
+project.json
+*.code-workspace
+
+# excluding sphinx stuff for now
+_build/
+*.rst
+make.bat
+Makefile
+conf.py
+
+# I generate those based on various .rpy files
+# only used to check grammar via LanguageTool
+txt_output/
+
+# trying to test python functions in there
+testing/
+game/functions/tester.py
+*.py
+
+# renpy web
+progressive_download.txt
+
+

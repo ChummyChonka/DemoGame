@@ -1,0 +1,13 @@
+0;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15
+;;;;;requirements;;;;;;;;;;
+quest_id;no_events;event_id;name;force_player;has?;days;weekdays;times;events;char;location;player hint;guide info;guide name;manual
+the_intro;4;;The Intro;;;;;;;;;;;;
+;;event_demo01;;;;;;;;;;;Make sure to watch the news in the evening.;Shocking News;
+;;event_demo02;;;;;;;;;;;Meet with [person.bff.name] in the morning.;Catching Up;
+;;event_demo03;;;;;;;;;;;Talk to [person.mom.display_name] on the weekend.;Round it goes;
+;;event_demo04;;;;;;;;;;;Wait for [person.harper.display_name] to give you a call.;Work Offer;
+;;;;;;;;;;;;;;;
+learn_about_self;3;;Self-Discovery;;;;;;;;;;;;
+;;event_demo05;;;;;;;;;;;Explore about town.;Walk about town;
+;;event_demo06;;;TRUE;5;;;event_demo01;;;;Sleep in on a Sunday.;Snoozing;
+;;event_demo07;;;;;;;;;;;Check out the Cafe in town.;Mocha Latte;
